@@ -1,7 +1,7 @@
 ###  Merhaba Ben Ferhat 👋
 #### Yazılım Geliştirici Olarak Türkiyede Yaşıyorum
 
-- 📫  İletişim : ferhat.cengiz13@outlook.com
+- 📫  ferhat.cengiz13@outlook.com
 -  👉 https://ferhatcengz.github.io/MyAbout/
 
 ### Bana Ulaş:
