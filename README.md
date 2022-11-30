@@ -36,4 +36,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhatcengz&show_icons=true&locale=tr&layout=compact" alt="ferhatcengz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatcengz&show_icons=true&locale=tr" alt="ferhatcengz" width="50%" /></p><br />
 <br />
+
+
+
+##  📈 Grafik
+![ Ferhat Cengiz'in GitHub Etkinlik Grafiği ](https://activity-graph.herokuapp.com/graph?username=ferhatcengz&hide_border=true&theme=redical)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ferhatcengz&color=a6920f"/></p>
+
+
 	
