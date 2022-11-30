@@ -32,7 +32,7 @@
 <br />
 
 ---
-<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferhatcengz" alt="ferhatcengz" /></a></p>
+<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferhatcengz&title=Repositories,Commits" alt="ferhatcengz" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhatcengz&show_icons=true&locale=tr&layout=compact" alt="ferhatcengz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatcengz&show_icons=true&locale=tr" alt="ferhatcengz" width="50%" /></p><br />
 <br />
