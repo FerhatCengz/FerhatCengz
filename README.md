@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ferobasqan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferhatcengizz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferhat-cengiz-8447a3207) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ferhat-cengiz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FerhatCengzz) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ferobasqan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferhatcengizz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferhat-cengiz-8447a3207) [![
+Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20153584/ferhat-cengiz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FerhatCengzz) 
 [![MAIL](https://img.shields.io/badge/Mail-ferhat.cengiz13%40outlook.com-brightgreen)](mailto:ferhat.cengiz13@outlook.com)
 
 # 💻 Tech Stack:
@@ -14,8 +15,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferhatcengz&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatcengz&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<!--
+<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferhatcengz&title=Repositories,Commits" alt="ferhatcengz" /></a></p>
+--->
+
 [![](https://visitcount.itsvg.in/api?id=ferhatcengz&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ferhatcengz&color=a6920f"/></p>
+
+
 
