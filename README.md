@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on software development.<br> 📍  I Live in Turkey as a Software Developer <br> 👩‍💻 A junior who is constantly improving his skills
+🔭 I am currently working on software development.<br> 📍 I Live in Turkey as a Software Developer <br> 👩‍💻 A junior who is constantly improving his skills
 
 
 ## 🌐 Socials:
