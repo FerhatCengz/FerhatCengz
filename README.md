@@ -13,7 +13,12 @@
 <p align="center">
 💫 About Me
 </p>
-🔭 I am currently working on software development.<br> 📍 I Live in Turkey as a Software Developer <br> 👩‍💻 A junior who is constantly improving his skills
+<p align="center">🔭 I am currently working on software development.</p>
+<p align="center">
+📍 I Live in Turkey as a Software Developer 
+</p>
+<p align="center"> 👩‍💻 A junior who is constantly improving his skills
+</p>
 
 
 ## 🌐 Socials:
