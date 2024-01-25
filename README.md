@@ -10,9 +10,7 @@
 </p>
 <br>
 
-<p align="center">
-💫 About Me
-</p>
+
 <p align="center">Software Developer.</p>
 
 
